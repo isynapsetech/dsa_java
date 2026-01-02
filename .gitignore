@@ -1,0 +1,21 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore common build/output directories
+bin/
+out/
+target/
+build/
+
+# Ignore Java archives and temporary files
+*.jar
+*.war
+*.ear
+
+# IDE and editor folders
+.idea/
+*.iml
+.vscode/
+
+# Keep source files (.java) tracked
+# (No rules needed; listed for documentation)
